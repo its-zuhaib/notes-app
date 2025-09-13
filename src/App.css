@@ -116,3 +116,12 @@ body {
   color: #555;
   white-space: pre-wrap;
 }
+
+.edit-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; 
+  gap: 10px;
+}
+
+
